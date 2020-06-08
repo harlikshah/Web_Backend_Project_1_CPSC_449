@@ -1,7 +1,6 @@
 
 # CPSC 449 Web Backend Engineering
 ## Project-1
-### Project Members:
 Harlik Shah (shahharlik@csu.fullerton.edu) 
 
 
